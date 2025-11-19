@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 26
 =======
 26 
@@ -9,5 +9,4 @@ adkadja
 adkadjaadjaodja
 adsjka
 adjas
-daojajk
->>>>>>> 64a50d12168a115fc075d80d7f42fae99b85e90e
+daojajks
